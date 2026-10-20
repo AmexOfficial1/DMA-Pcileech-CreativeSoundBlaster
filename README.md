@@ -2,7 +2,6 @@
 
 This project was a passion a passion project developed by me and utilises a Creative Sound Blaster sound card as the donor device utilising the **PCILeech framework**. This project is intended for developers, hardware hackers, and researchers interested in DMA (Direct Memory Access) attack surfaces, hardware debugging, or low-level OS and driver development.
 
-This project was completed a year ago however EAC have recently been documenting and blocking read/write memory functions of specific Pci devices and unfortunately got caught in a block a few months ago, should still work for lower level anticheats such as BE however.
 
 This project is strictly for Educational Purposes Only!
 ---
